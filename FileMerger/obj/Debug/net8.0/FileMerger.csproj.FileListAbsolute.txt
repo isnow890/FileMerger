@@ -1,0 +1,14 @@
+D:\repository\FileMerger\FileMerger\FileMerger\bin\Debug\net8.0\FileMerger.exe
+D:\repository\FileMerger\FileMerger\FileMerger\bin\Debug\net8.0\FileMerger.deps.json
+D:\repository\FileMerger\FileMerger\FileMerger\bin\Debug\net8.0\FileMerger.runtimeconfig.json
+D:\repository\FileMerger\FileMerger\FileMerger\bin\Debug\net8.0\FileMerger.dll
+D:\repository\FileMerger\FileMerger\FileMerger\bin\Debug\net8.0\FileMerger.pdb
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.AssemblyInfoInputs.cache
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.AssemblyInfo.cs
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.csproj.CoreCompileInputs.cache
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.dll
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\refint\FileMerger.dll
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.pdb
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\FileMerger.genruntimeconfig.cache
+D:\repository\FileMerger\FileMerger\FileMerger\obj\Debug\net8.0\ref\FileMerger.dll
